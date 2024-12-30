@@ -2996,7 +2996,7 @@
 			(uuid "622b669f-9ebe-4af3-8433-8f29bd062c59")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J5")
 					(unit 1)
@@ -3064,7 +3064,7 @@
 			(uuid "ddf831ed-ccef-4ad9-a8cc-b1af324a840d")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J58")
 					(unit 1)
@@ -3131,7 +3131,7 @@
 			(uuid "39a90b6b-e82d-4577-8ed4-a48f7c56e594")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J94")
 					(unit 1)
@@ -3199,7 +3199,7 @@
 			(uuid "b4691bde-f4b2-4ac5-80a7-491270b55bd5")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J81")
 					(unit 1)
@@ -3267,7 +3267,7 @@
 			(uuid "e89075d3-905e-432a-8ffe-09b854a8b3f2")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J43")
 					(unit 1)
@@ -3335,7 +3335,7 @@
 			(uuid "fdbc3e8c-4c04-4997-a304-4a0e71fed425")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J70")
 					(unit 1)
@@ -3402,7 +3402,7 @@
 			(uuid "be7e1507-fe46-49e5-a92c-9d3795cbd65f")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J20")
 					(unit 1)
@@ -3470,7 +3470,7 @@
 			(uuid "aaf3bb94-3a48-41a5-9244-d67e978fa2f5")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J60")
 					(unit 1)
@@ -3537,7 +3537,7 @@
 			(uuid "551d13b5-ef66-458a-a0c9-7f7bbb90f6dc")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J107")
 					(unit 1)
@@ -3605,7 +3605,7 @@
 			(uuid "3f8906b3-7e75-4078-b956-7e6ecd517715")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J45")
 					(unit 1)
@@ -3673,7 +3673,7 @@
 			(uuid "cb2256e7-c728-41fc-9cb6-fd66660380bf")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J64")
 					(unit 1)
@@ -3740,7 +3740,7 @@
 			(uuid "02d79414-9f1f-440d-aa17-241dfbf9d5bc")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J87")
 					(unit 1)
@@ -3807,7 +3807,7 @@
 			(uuid "c99ac68a-a8fc-46c1-a552-67cd75062f00")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "#PWR016")
 					(unit 1)
@@ -3874,7 +3874,7 @@
 			(uuid "644ea7d8-a61f-43aa-8c19-bf8cbf06321e")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J23")
 					(unit 1)
@@ -3942,7 +3942,7 @@
 			(uuid "ea6659b8-11ad-4de4-a6aa-0d5f6f2a649f")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J71")
 					(unit 1)
@@ -4009,7 +4009,7 @@
 			(uuid "abb1cb20-10ac-47ca-a34e-32b552674ff6")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J31")
 					(unit 1)
@@ -4076,7 +4076,7 @@
 			(uuid "87bb4e6d-d168-453f-bc90-823381518237")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J98")
 					(unit 1)
@@ -4143,7 +4143,7 @@
 			(uuid "49dc44a9-dd39-42ee-9087-d68469cf11d7")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J16")
 					(unit 1)
@@ -4210,7 +4210,7 @@
 			(uuid "0b246583-1a82-4802-9b2a-3ecdaa839742")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J33")
 					(unit 1)
@@ -4276,7 +4276,7 @@
 			(uuid "008793e1-d547-4794-8792-1bac7065743e")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "#PWR06")
 					(unit 1)
@@ -4344,7 +4344,7 @@
 			(uuid "9cbc17d0-0b69-42b6-9917-53985769c6d2")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J74")
 					(unit 1)
@@ -4412,7 +4412,7 @@
 			(uuid "ec24017d-3a77-428b-820c-ce5b13733249")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J106")
 					(unit 1)
@@ -4480,7 +4480,7 @@
 			(uuid "73c0c8ce-e8fd-434f-bf60-2132ccce8865")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J38")
 					(unit 1)
@@ -4547,7 +4547,7 @@
 			(uuid "5a0d15f9-9fbc-40b5-becc-0b62beace441")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J97")
 					(unit 1)
@@ -4615,7 +4615,7 @@
 			(uuid "2b5aa988-da38-4c86-84d1-f2edeb34556e")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J66")
 					(unit 1)
@@ -4683,7 +4683,7 @@
 			(uuid "127a4683-57bb-4877-8d30-f2cb4b039ba6")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J68")
 					(unit 1)
@@ -4750,7 +4750,7 @@
 			(uuid "e85c910b-7689-4cff-baa3-4cb017b31853")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J17")
 					(unit 1)
@@ -4818,7 +4818,7 @@
 			(uuid "febf6581-dcc9-4215-abb5-89adf5dc6989")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J37")
 					(unit 1)
@@ -4885,7 +4885,7 @@
 			(uuid "2bdcb48e-f3cf-4f6b-96df-a61122ecfffb")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J101")
 					(unit 1)
@@ -4952,7 +4952,7 @@
 			(uuid "a4147410-1673-4810-b317-f9e79cbe772d")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J28")
 					(unit 1)
@@ -5020,7 +5020,7 @@
 			(uuid "15f9514a-f04a-4783-9b33-ca1f4f6ab5f4")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J104")
 					(unit 1)
@@ -5088,7 +5088,7 @@
 			(uuid "7b832955-8c91-4c77-a12f-dbb342517d00")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J46")
 					(unit 1)
@@ -5155,7 +5155,7 @@
 			(uuid "d5677a09-148a-45bb-9a3b-fd55c30d37d0")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J13")
 					(unit 1)
@@ -5222,7 +5222,7 @@
 			(uuid "f5f5c0e5-fecc-4e8a-85c3-7dcbd711cd4d")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J12")
 					(unit 1)
@@ -5289,7 +5289,7 @@
 			(uuid "7978eca6-5a2e-448d-80a3-2f441c7e4034")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J86")
 					(unit 1)
@@ -5354,7 +5354,7 @@
 			(uuid "5233c460-8e7f-4b50-847b-eb49aa0c4388")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "#PWR011")
 					(unit 1)
@@ -5422,7 +5422,7 @@
 			(uuid "15dba430-3bce-441b-9c16-38cc803c4e8f")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J35")
 					(unit 1)
@@ -5490,7 +5490,7 @@
 			(uuid "e7a62d0f-8f2f-467a-9022-d6c428932a93")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J42")
 					(unit 1)
@@ -5557,7 +5557,7 @@
 			(uuid "069fa3ce-2c9a-425d-aa31-a325fd64e612")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J89")
 					(unit 1)
@@ -5625,7 +5625,7 @@
 			(uuid "b414c2dd-e44e-4a51-8f64-a0ecefb0ae0d")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J47")
 					(unit 1)
@@ -5691,7 +5691,7 @@
 			(uuid "02b85870-ee73-406b-9f15-566ae4db3a54")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "#PWR09")
 					(unit 1)
@@ -5759,7 +5759,7 @@
 			(uuid "b53b1831-7357-4189-a07a-85cdc5463717")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J56")
 					(unit 1)
@@ -5827,7 +5827,7 @@
 			(uuid "020f0979-284e-4f14-968b-97ba397779a9")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J55")
 					(unit 1)
@@ -5894,7 +5894,7 @@
 			(uuid "0b5a2653-5218-42f7-a73a-df02cb876612")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J83")
 					(unit 1)
@@ -5960,7 +5960,7 @@
 			(uuid "df0775e5-129d-40bf-8339-aa5cb7fdb830")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "#PWR05")
 					(unit 1)
@@ -6028,7 +6028,7 @@
 			(uuid "eae856e2-d0d3-4065-b735-b36b9080a01e")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J79")
 					(unit 1)
@@ -6096,7 +6096,7 @@
 			(uuid "17a7950a-b77b-46c7-8883-47f92d9dad85")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J77")
 					(unit 1)
@@ -6164,7 +6164,7 @@
 			(uuid "3dd45b54-dd8d-497e-aaba-9f9c22639767")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J75")
 					(unit 1)
@@ -6231,7 +6231,7 @@
 			(uuid "c525b45e-c376-433e-9c0b-093391138bac")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J93")
 					(unit 1)
@@ -6299,7 +6299,7 @@
 			(uuid "9631822d-5554-4c4f-8226-02b0f76c7e24")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J59")
 					(unit 1)
@@ -6366,7 +6366,7 @@
 			(uuid "44c568a3-56ac-441d-ae3d-4998636a8491")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J22")
 					(unit 1)
@@ -6433,7 +6433,7 @@
 			(uuid "c4f992da-67a2-4c61-8722-456d20d41c15")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J32")
 					(unit 1)
@@ -6500,7 +6500,7 @@
 			(uuid "9b0b0675-e436-47ed-ac68-e10d6ef3fc00")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J96")
 					(unit 1)
@@ -6568,7 +6568,7 @@
 			(uuid "4a31bdaf-c8ac-479e-af44-fecab3a4653d")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J41")
 					(unit 1)
@@ -6634,7 +6634,7 @@
 			(uuid "613730df-4bb4-4920-89bc-1855d911d1b3")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "#PWR07")
 					(unit 1)
@@ -6701,7 +6701,7 @@
 			(uuid "cbae3ef5-30e0-410c-85d9-4101914018ee")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J92")
 					(unit 1)
@@ -6768,7 +6768,7 @@
 			(uuid "1406aabe-9285-46ba-ab85-fc3a7d488cc1")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J14")
 					(unit 1)
@@ -6835,7 +6835,7 @@
 			(uuid "601dc1f0-c29f-4780-98fc-e7a7c9d33162")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J29")
 					(unit 1)
@@ -6903,7 +6903,7 @@
 			(uuid "346c3e58-80e5-4ddf-8cdb-f207db1a0bea")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J65")
 					(unit 1)
@@ -6971,7 +6971,7 @@
 			(uuid "b733f9b3-4c4c-4713-9369-db97e2a0c99a")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J50")
 					(unit 1)
@@ -7038,7 +7038,7 @@
 			(uuid "a74a3001-872b-473a-b960-a05b740c28c4")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J88")
 					(unit 1)
@@ -7106,7 +7106,7 @@
 			(uuid "cae7f78e-3206-459c-881d-baac126c34df")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J51")
 					(unit 1)
@@ -7174,7 +7174,7 @@
 			(uuid "66ba25da-ad70-4ceb-b534-3d53be2be33f")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J48")
 					(unit 1)
@@ -7242,7 +7242,7 @@
 			(uuid "636b2716-cca3-4c85-95ff-97523970821f")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J76")
 					(unit 1)
@@ -7309,7 +7309,7 @@
 			(uuid "435d84da-6b7b-415e-a1fc-82748d04372a")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J34")
 					(unit 1)
@@ -7377,7 +7377,7 @@
 			(uuid "f0799b16-1227-4664-9fd2-daae85e28463")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J82")
 					(unit 1)
@@ -7444,7 +7444,7 @@
 			(uuid "d125047e-a6f2-40da-80db-92672070bee2")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J4")
 					(unit 1)
@@ -7511,7 +7511,7 @@
 			(uuid "9bb73c7e-fa29-4a59-8a19-13f75e1dace3")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J85")
 					(unit 1)
@@ -7578,7 +7578,7 @@
 			(uuid "af811312-27b5-4357-81cd-0335dc62cd13")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J21")
 					(unit 1)
@@ -7645,7 +7645,7 @@
 			(uuid "add162f0-9b29-4001-b000-074b969cd432")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J18")
 					(unit 1)
@@ -7712,7 +7712,7 @@
 			(uuid "ef9fbf87-8e16-4d0a-bedd-bc334d3801fa")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J7")
 					(unit 1)
@@ -7780,7 +7780,7 @@
 			(uuid "49f95fe2-1dca-4889-b6e0-86a866ef0fd3")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J99")
 					(unit 1)
@@ -7847,7 +7847,7 @@
 			(uuid "9d89bd26-2d9b-49b4-a553-1c9d79200f93")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J108")
 					(unit 1)
@@ -7915,7 +7915,7 @@
 			(uuid "2c020c19-03fb-4761-a33b-a73f36ae7cb8")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J53")
 					(unit 1)
@@ -7983,7 +7983,7 @@
 			(uuid "51ad2ded-0db5-4d8a-ade3-14c01638b74f")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J57")
 					(unit 1)
@@ -8051,7 +8051,7 @@
 			(uuid "05666241-97ea-4862-a699-a5aa2e84f67a")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J36")
 					(unit 1)
@@ -8118,7 +8118,7 @@
 			(uuid "89f45b32-7f0a-4882-a7fe-76daad803e47")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "#PWR014")
 					(unit 1)
@@ -8186,7 +8186,7 @@
 			(uuid "6e8c47c1-4460-4c3d-9edd-143941dd877b")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J63")
 					(unit 1)
@@ -8254,7 +8254,7 @@
 			(uuid "1edec5f4-ee4c-4455-814d-2e81fd9d25b5")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J61")
 					(unit 1)
@@ -8321,7 +8321,7 @@
 			(uuid "1e704099-86dc-44d4-bce0-cfd5ce3f1339")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J15")
 					(unit 1)
@@ -8389,7 +8389,7 @@
 			(uuid "b94d2daa-99e5-4fe0-bf63-472d1ea505d6")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J69")
 					(unit 1)
@@ -8457,7 +8457,7 @@
 			(uuid "9b29089a-a44b-4992-bd96-dcd56023b743")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J39")
 					(unit 1)
@@ -8524,7 +8524,7 @@
 			(uuid "796f138f-39b8-4a99-83ec-7bea9165cf37")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J102")
 					(unit 1)
@@ -8592,7 +8592,7 @@
 			(uuid "847958a5-386f-4e55-b98d-06cb3a9bb25a")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J54")
 					(unit 1)
@@ -8659,7 +8659,7 @@
 			(uuid "412a5b04-f618-40f3-ac9c-74368dddd386")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J24")
 					(unit 1)
@@ -8726,7 +8726,7 @@
 			(uuid "415a6a20-3577-486f-a0de-0758d4c1cbf0")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J90")
 					(unit 1)
@@ -8793,7 +8793,7 @@
 			(uuid "8fbac4fd-832f-4d66-a4f1-ed331aba656d")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J91")
 					(unit 1)
@@ -8860,7 +8860,7 @@
 			(uuid "fabb500b-1977-42cf-8f18-f69dcd27761c")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J84")
 					(unit 1)
@@ -8928,7 +8928,7 @@
 			(uuid "9297931c-d63a-4a94-ac42-1fb10b9734b4")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J73")
 					(unit 1)
@@ -8995,7 +8995,7 @@
 			(uuid "52645ed6-0449-4376-83ee-a173a5f94a72")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J30")
 					(unit 1)
@@ -9062,7 +9062,7 @@
 			(uuid "374668e7-cf51-4b45-8b61-07c71e9d5a5f")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J25")
 					(unit 1)
@@ -9129,7 +9129,7 @@
 			(uuid "ec834161-dcb3-47d9-a87c-2eb0b5ae47ce")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J9")
 					(unit 1)
@@ -9196,7 +9196,7 @@
 			(uuid "e02622b0-1f42-4b12-9126-e87dce579ff7")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J95")
 					(unit 1)
@@ -9262,7 +9262,7 @@
 			(uuid "63a073df-40eb-4c48-8e71-9f9948ebdee8")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "#PWR013")
 					(unit 1)
@@ -9329,7 +9329,7 @@
 			(uuid "6f958417-930c-4b9e-8d3b-9cc23e495b2e")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J6")
 					(unit 1)
@@ -9396,7 +9396,7 @@
 			(uuid "c693d1ac-3c73-4d16-8a58-6859964a2a57")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J110")
 					(unit 1)
@@ -9464,7 +9464,7 @@
 			(uuid "4cff5c9d-5ef7-4546-8eb0-8d13e19f5ff9")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J100")
 					(unit 1)
@@ -9532,7 +9532,7 @@
 			(uuid "aa690773-c7b6-45ca-9baa-42ce62861df7")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J80")
 					(unit 1)
@@ -9599,7 +9599,7 @@
 			(uuid "2fa63b73-7002-4e06-9c8e-519d4c00ce45")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "#PWR012")
 					(unit 1)
@@ -9666,7 +9666,7 @@
 			(uuid "07039f1a-6015-4c98-9f7b-d2d12d2c7113")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J109")
 					(unit 1)
@@ -9732,7 +9732,7 @@
 			(uuid "3010f729-1002-4fb9-9d4e-43f8af19eec6")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "#PWR08")
 					(unit 1)
@@ -9800,7 +9800,7 @@
 			(uuid "07e36c3a-8587-4c1a-b30c-1277949a661c")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J62")
 					(unit 1)
@@ -9868,7 +9868,7 @@
 			(uuid "044a7ae3-f316-48f4-84cb-a829eb9bb39f")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J44")
 					(unit 1)
@@ -10189,7 +10189,7 @@
 			(uuid "58170b93-caff-4e54-bb09-afa83e2ffb85")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J8")
 					(unit 1)
@@ -10257,7 +10257,7 @@
 			(uuid "e62afee1-8821-418a-aa4e-10499ce2587e")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J72")
 					(unit 1)
@@ -10325,7 +10325,7 @@
 			(uuid "6e70bd31-cc43-4d5a-943a-fe10bc6e08ab")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J78")
 					(unit 1)
@@ -10393,7 +10393,7 @@
 			(uuid "7661b05e-972b-4094-98af-055717110532")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J49")
 					(unit 1)
@@ -10459,7 +10459,7 @@
 			(uuid "4ee90cf9-462b-4109-8e5b-889c97a4ab9c")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "#PWR015")
 					(unit 1)
@@ -10713,7 +10713,7 @@
 			(uuid "7f241be7-8a53-4fd5-a13e-3ac1dcaf9675")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J1")
 					(unit 1)
@@ -10780,7 +10780,7 @@
 			(uuid "0ef08feb-8f46-4df6-9a93-833b982560b1")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J27")
 					(unit 1)
@@ -10848,7 +10848,7 @@
 			(uuid "77ac42d5-b690-424b-9250-37cf14723a3c")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J103")
 					(unit 1)
@@ -10983,7 +10983,7 @@
 			(uuid "6554ee87-5570-4e69-b6d5-b1ce0dc06f68")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J67")
 					(unit 1)
@@ -11050,7 +11050,7 @@
 			(uuid "ca2ca7a4-8adb-4ac7-bc67-a27d33b11c66")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J11")
 					(unit 1)
@@ -11116,7 +11116,7 @@
 			(uuid "2efaf50b-a18f-4982-bc84-6b7654f552e0")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "#PWR010")
 					(unit 1)
@@ -11184,7 +11184,7 @@
 			(uuid "ec721b83-d1f0-42a4-9048-be0b8e2c763f")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J52")
 					(unit 1)
@@ -11251,7 +11251,7 @@
 			(uuid "f4019b27-12af-44c8-973b-1540e51f5d49")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J19")
 					(unit 1)
@@ -11319,7 +11319,7 @@
 			(uuid "044abcbc-ce0b-4c6e-90e7-f4db177e143d")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J40")
 					(unit 1)
@@ -11386,7 +11386,7 @@
 			(uuid "71d672ff-30f2-4252-99f1-bee67da63768")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J10")
 					(unit 1)
@@ -11454,7 +11454,7 @@
 			(uuid "91f9b083-3a51-4ed4-bd27-a5c220ba5fbc")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J105")
 					(unit 1)
@@ -11521,7 +11521,7 @@
 			(uuid "35c3947a-c406-46d3-9dbe-c0eccf647bd2")
 		)
 		(instances
-			(project "Eurocard_6U_233x160_VME"
+			(project "taylorix-s4-experimenter"
 				(path "/45636c84-997d-423a-83bb-592f8261f3d3"
 					(reference "J26")
 					(unit 1)

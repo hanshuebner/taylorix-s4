@@ -1,5 +1,5 @@
 (sym_lib_table
   (version 7)
-  (lib (name "Eurocard_6U_233x160_VME-rescue")(type "Legacy")(uri "${KIPRJMOD}/Eurocard_6U_233x160_VME-rescue.lib")(options "")(descr ""))
+  (lib (name "taylorix-s4-experimenter-rescue")(type "Legacy")(uri "${KIPRJMOD}/taylorix-s4-experimenter-rescue.lib")(options "")(descr ""))
   (lib (name "d_connectors")(type "Legacy")(uri "/Users/hans/Development/privat/VME/KiCad_libraries/d_connectors.lib")(options "")(descr ""))
 )
